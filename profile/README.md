@@ -16,7 +16,7 @@
 <a href="https://github.com/doggui-pack/doggui?tab=readme-ov-file#%EF%B8%8F-gratitude">Information</a>
 </h6>
 
-<a href="https://github.com/doggui-pack/doggui/stargazers"><img src="https://img.shields.io/github/stars/doggui-pack?colorA=2a2e48&colorB=d1b3ff&style=for-the-badge&logo="></a>
+<a href="https://github.com/doggui-pack/doggui/stargazers"><img src="https://img.shields.io/github/stars/doggui-pack/doggui?colorA=2a2e48&colorB=d1b3ff&style=for-the-badge&logo="></a>
 <a href="https://github.com/doggui-pack/doggui/releases/latest"><img src="https://img.shields.io/github/v/release/doggui-pack/doggui?colorA=2a2e48&colorB=b7e4a1&style=for-the-badge"></a>
 <a href="https://github.com/doggui-pack/doggui/issues"><img src="https://img.shields.io/github/issues/doggui-pack/doggui?colorA=2a2e48&colorB=fbb693&style=for-the-badge&logo="></a>
 
@@ -26,5 +26,9 @@ Community-based and accessible to all, Doggui lets everyone personalize their in
 </em></p>
 
 </div>
+
+### Main colors
+
+||||
 
 #### Coming soon..

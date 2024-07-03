@@ -1,6 +1,6 @@
 <div align="center">
 
-<img alt="logo" src="https://raw.githubusercontent.com/doggui-pack/.github/main/icon/logo_round.png" height="100">
+<img alt="logo" src="https://raw.githubusercontent.com/doggui-pack../main/icon/logo_round.png" height="100">
 
 <h3>Doggui Pack</h3>
 
@@ -34,32 +34,32 @@ Community-based and accessible to all, Doggui lets everyone personalize their in
 
 | |Labels|Hex|
 |-|:-----|---|
-|![color](/.github/palette/colors/misty-rose.svg)|Misty Rose|``#fde8e4``
-|![color](/.github/palette/colors/light-red.svg)|Light Red|``#f6d0d0``
-|![color](/.github/palette/colors/pink-lace.svg)|Pink Lace|``#fbd8f0``
-|![color](/.github/palette/colors/mauve.svg)|Mauve|``#d1b3ff``
-|![color](/.github/palette/colors/light-salmon-pink.svg)|Light Salmon Pink|``#f29a9c``
-|![color](/.github/palette/colors/amaranth-pink.svg)|Amaranth Pink|``#f2aab0``
-|![color](/.github/palette/colors/macaroni-and-cheese.svg)|Macaroni And Cheese|``#fbb693``
-|![color](/.github/palette/colors/wheat.svg)|Wheat|``#f3d7b1``
-|![color](/.github/palette/colors/granny-smith-apple.svg)|Granny Smith Apple|``#b7e4a1``
-|![color](/.github/palette/colors/pale-robin-egg-blue.svg)|Pale Robin Egg Blue|``#9cdbc9``
-|![color](/.github/palette/colors/non-photo-blue.svg)|Non Photo Blue|``#a2e2eb``
-|![color](/.github/palette/colors/baby-blue.svg)|Baby Blue|``#89d6ee``
-|![color](/.github/palette/colors/jordy-blue.svg)|Jordy Blue|``#9cb6f5``
-|![color](/.github/palette/colors/lavender-blue.svg)|Lavender Blue|``#c4c8fb``
-|![color](/.github/palette/colors/azureish-White.svg)|Azureish White|``#dde3fa``
-|![color](/.github/palette/colors/Periwinkle-Crayola.svg)|Periwinkle (Crayola)|``#c9d2e9``
-|![color](/.github/palette/colors/light-steel-blue.svg)|Light Steel Blue|``#b1badb``
-|![color](/.github/palette/colors/blue-bell.svg)|Blue Bell|``#9ea3c1``
-|![color](/.github/palette/colors/cool-grey.svg)|Cool Grey|``#8991ad``
-|![color](/.github/palette/colors/rhythm.svg)|Rhythm|``#747c99``
-|![color](/.github/palette/colors/dark-electric-blue.svg)|Dark Electric Blue|``#626781``
-|![color](/.github/palette/colors/independence.svg)|Independence|``#4d526b``
-|![color](/.github/palette/colors/charcoal.svg)|Charcoal|``#3b3f5a``
-|![color](/.github/palette/colors/gunmetal.svg)|Gunmetal|``#2a2e48``
-|![color](/.github/palette/colors/yankees-blue.svg)|Yankee Blue|``#232540``
-|![color](/.github/palette/colors/dark-gunmetal.svg)|Dark Gunmetal|``#1a1b2c``
+|![color](../palette/colors/misty-rose.svg)|Misty Rose|``#fde8e4``
+|![color](../palette/colors/light-red.svg)|Light Red|``#f6d0d0``
+|![color](../palette/colors/pink-lace.svg)|Pink Lace|``#fbd8f0``
+|![color](../palette/colors/mauve.svg)|Mauve|``#d1b3ff``
+|![color](../palette/colors/light-salmon-pink.svg)|Light Salmon Pink|``#f29a9c``
+|![color](../palette/colors/amaranth-pink.svg)|Amaranth Pink|``#f2aab0``
+|![color](../palette/colors/macaroni-and-cheese.svg)|Macaroni And Cheese|``#fbb693``
+|![color](../palette/colors/wheat.svg)|Wheat|``#f3d7b1``
+|![color](../palette/colors/granny-smith-apple.svg)|Granny Smith Apple|``#b7e4a1``
+|![color](../palette/colors/pale-robin-egg-blue.svg)|Pale Robin Egg Blue|``#9cdbc9``
+|![color](../palette/colors/non-photo-blue.svg)|Non Photo Blue|``#a2e2eb``
+|![color](../palette/colors/baby-blue.svg)|Baby Blue|``#89d6ee``
+|![color](../palette/colors/jordy-blue.svg)|Jordy Blue|``#9cb6f5``
+|![color](../palette/colors/lavender-blue.svg)|Lavender Blue|``#c4c8fb``
+|![color](../palette/colors/azureish-White.svg)|Azureish White|``#dde3fa``
+|![color](../palette/colors/Periwinkle-Crayola.svg)|Periwinkle (Crayola)|``#c9d2e9``
+|![color](../palette/colors/light-steel-blue.svg)|Light Steel Blue|``#b1badb``
+|![color](../palette/colors/blue-bell.svg)|Blue Bell|``#9ea3c1``
+|![color](../palette/colors/cool-grey.svg)|Cool Grey|``#8991ad``
+|![color](../palette/colors/rhythm.svg)|Rhythm|``#747c99``
+|![color](../palette/colors/dark-electric-blue.svg)|Dark Electric Blue|``#626781``
+|![color](../palette/colors/independence.svg)|Independence|``#4d526b``
+|![color](../palette/colors/charcoal.svg)|Charcoal|``#3b3f5a``
+|![color](../palette/colors/gunmetal.svg)|Gunmetal|``#2a2e48``
+|![color](../palette/colors/yankees-blue.svg)|Yankee Blue|``#232540``
+|![color](../palette/colors/dark-gunmetal.svg)|Dark Gunmetal|``#1a1b2c``
 </details>
 
 <details>

@@ -1,5 +1,5 @@
 <p align="center">
-    <img alt="logo" src="../icon/proto.png" height="150">
+    <img alt="logo" src="../icon/proto.png" height="100">
 </p>
 Doggui pack theme & more...
 

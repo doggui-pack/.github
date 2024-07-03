@@ -1,4 +1,4 @@
-<center>
+<div align="center">
 
 <img alt="logo" src="../icon/logo_round.png" height="100">
 
@@ -25,6 +25,6 @@
 Community-based and accessible to all, Doggui lets everyone personalize their interface with elegance.
 </em></p>
 
-</center>
+</div>
 
 #### Coming soon..

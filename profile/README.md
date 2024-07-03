@@ -5,15 +5,15 @@
 <h3>Doggui Pack</h3>
 
 <h6>
-<a href="">Github</a>
+<a href="https://github.com/doggui-pack/">Github</a>
 ·
-<a href="">Get started</a>
+<a href=https://github.com/doggui-pack/doggui">Get started</a>
 ·
-<a href="">Colors</a>
+<a href="https://github.com/doggui-pack/doggui?tab=readme-ov-file#-palette">Colors</a>
 ·
-<a href="">Application</a>
+<a href="https://github.com/doggui-pack/doggui?tab=readme-ov-file#-application">Application</a>
 ·
-<a href="">Information</a>
+<a href="https://github.com/doggui-pack/doggui?tab=readme-ov-file#%EF%B8%8F-gratitude">Information</a>
 </h6>
 
 <a href="https://github.com/doggui-pack/doggui/stargazers"><img src="https://img.shields.io/github/stars/doggui-pack?colorA=2a2e48&colorB=d1b3ff&style=for-the-badge&logo="></a>

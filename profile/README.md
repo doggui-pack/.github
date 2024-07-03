@@ -1,6 +1,6 @@
 <div align="center">
 
-<img alt="logo" src="https://raw.githubusercontent.com/doggui-pack../main/icon/logo_round.png" height="100">
+<img alt="logo" src="https://raw.githubusercontent.com/doggui-pack/.github/main/icon/logo_round.png" height="100">
 
 <h3>Doggui Pack</h3>
 

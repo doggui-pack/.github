@@ -21,7 +21,6 @@
 <a href="https://github.com/doggui-pack/doggui/issues"><img src="https://img.shields.io/github/issues/doggui-pack/doggui?colorA=2a2e48&colorB=fbb693&style=for-the-badge&logo="></a>
 
 <p><em>
-<!-- Doggui offre une variété de thèmes de couleur agréables pour les yeux et adaptés à tous les usages. Communautaire et accessible à tous, Doggui permet à chacun de personnaliser son interface avec élégance. -->
 Community-based and accessible to all, Doggui lets everyone personalize their interface with elegance.
 </em></p>
 
@@ -60,6 +59,41 @@ Community-based and accessible to all, Doggui lets everyone personalize their in
 |![color](../palette/colors/gunmetal.svg)|Gunmetal|``#2a2e48``
 |![color](../palette/colors/yankees-blue.svg)|Yankee Blue|``#232540``
 |![color](../palette/colors/dark-gunmetal.svg)|Dark Gunmetal|``#1a1b2c``
+</details>
+
+<details>
+<summary>CSS</summary>
+
+```css
+:root {
+    --misty-rose: #fde8e4;
+    --light-red: #f6d0d0;
+    --pink-lace: #fbd8f0;
+    --mauve: #d1b3ff;
+    --light-salmon-pink: #f29a9c;
+    --amaranth-pink: #f2aab0;
+    --macaroni-and-cheese: #fbb693;
+    --wheat: #f3d7b1;
+    --granny-smith-apple: #b7e4a1;
+    --pale-robin-egg-blue: #9cdbc9;
+    --non-photo-blue: #a2e2eb;
+    --baby-blue: #89d6ee;
+    --jordy-blue: #9cb6f5;
+    --lavender-blue: #c4c8fb;
+    --azureish-white: #dde3fa;
+    --periwinkle-crayola: #c9d2e9;
+    --light-steel-blue: #b1badb;
+    --blue-bell: #9ea3c1;
+    --cool-grey: #8991ad;
+    --rhythm: #747c99;
+    --dark-electric-blue: #626781;
+    --independence: #4d526b;
+    --charcoal: #3b3f5a;
+    --gunmetal: #2a2e48;
+    --yankees-blue: #232540;
+    --dark-gunmetal: #1a1b2c;
+}
+```
 </details>
 
 <details>
